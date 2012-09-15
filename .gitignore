@@ -8,3 +8,5 @@
 *.kmz
 *.zip
 !world_map_1.jpg
+!countries.geo.json
+!LICENSE.txt

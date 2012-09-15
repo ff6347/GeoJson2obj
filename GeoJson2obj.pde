@@ -24,11 +24,11 @@ Boolean separate = false; // of to separeate the obj by points,lines,polygon and
  
 // Define your filename in this way:
 // it has to be the exact name without extension
+String GEOJsonFilename = "countries.geo";
 
 //String GEOJsonFilename = "AEMap example 10 feat";
-String GEOJsonFilename = "walmart";
+//String GEOJsonFilename = "walmart";
 //String GEOJsonFilename = "world capitals 225940 features";
-//String GEOJsonFilename = "countries.geo";
 //String GEOJsonFilename = "world airports geo commons 227677";
 //String GEOJsonFilename = "earthquake on twitter 226688";
 //String GEOJsonFilename = "fabiantheblind movement OpenPaths 231404";
