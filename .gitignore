@@ -1,0 +1,10 @@
+*.txt
+*.json
+*.jpg
+*.csv
+*.xml
+*.obj
+*.kml
+*.kmz
+*.zip
+!world_map_1.jpg
